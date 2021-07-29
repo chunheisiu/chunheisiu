@@ -3,7 +3,7 @@
 I'm Charles. Here are a few facts about me:
 
 - 👨🏻‍💻 I'm a data scientist and software engineer
-- 🇭🇰 I'm currently based in Hong Kong
-- 💻 I'm currently working at IBM as a Junior Data Scientist for a major airline client in Hong Kong
+- 🇨🇳 I'm currently based in Shenzhen, China
+- 💻 I'm currently working at Huolala/Lalamove
 - 🎓 I'm an MS and BS Data Science graduate from the University of San Francisco 
 - 📷 I'm interested in photography and design
